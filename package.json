@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "axios": "^0.16.1",
     "bleacon": "^0.5.1",
     "bleno": "^0.4.2",
     "eddystone-beacon-scanner": "^3.0.0",
